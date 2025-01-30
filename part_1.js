@@ -1,6 +1,6 @@
-let num = 42; // number
-let firstName = 'Alexandr'; // string
-const isProgrammer = true; // boolean
+// let num = 42; // number
+// let firstName = 'Alexandr'; // string
+// const isProgrammer = true; // boolean
 
 // isProgrammer = false; error
 
